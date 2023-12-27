@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**jess-ar/jess-ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-    <h1 align="center">Hi 👋, I'm Jess</h1>
+<h1 align="center">Hi 👋, I'm Jess</h1>
 <h3 align="center">Passionate future frontend developer from Barcelona</h3>
 
 - 🔭 I’m currently working on <strong>Telemarketing</strong>.<br>
