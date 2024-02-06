@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <strong>Telemarketing</strong>.<br>
 
-- 🌱 I’m currently learning <strong> HTML, CSS</strong>.<br>
+- 🌱 I’m currently learning <strong> HTML, CSS and JavaScript</strong>.<br>
 
 - 💬 Ask me about <strong>Photoshop, InDesign, Illustrator, Figma</strong>. <br>
 
