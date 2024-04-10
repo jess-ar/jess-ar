@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jess</h1>
 <h3 align="center">Future developer from Barcelona</h3>
 
-- 🌱 I’m learning <strong> HTML, CSS and JavaScript</strong>.<br>
+- 🌱 I’m learning <strong> HTML, CSS,JavaScript, PHP and Phyton</strong>.<br>
 
 - 💬 Ask me about <strong>Photoshop, InDesign, Illustrator, Figma and Canva</strong>. <br>
 
