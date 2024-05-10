@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p>
-  <a href="https://www.linkedin.com/in/jessica-arroyo-lebr%C3%B3n-9a2373207/">
+  <a target="_blank" href="https://www.linkedin.com/in/jessica-arroyo-lebr%C3%B3n-9a2373207/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
 
