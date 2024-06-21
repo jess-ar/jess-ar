@@ -5,8 +5,6 @@
 
 - 💬 Ask me about <strong>Photoshop, InDesign, Illustrator, Figma and Canva</strong>. <br>
 
-- 📫 How to reach me: <strong>jessica.arroyo.lebron@gmail.com. </strong><br>
-
 - ⚡ Fun fact &#9654; I'm a very <strong>creative</strong> person.<br>
 
 <h3 align="left">Connect with me:</h3>
