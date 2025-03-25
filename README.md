@@ -11,8 +11,9 @@
 </p>
 
 <p align="center">
-✨ <a href="https://www.jessicaarroyolebron.com" style="text-decoration:none;"><strong>Check out my Portfolio</strong></a> ✨
+✨ <a href="https://www.jessicaarroyolebron.com" target="_blank" style="text-decoration:none;"><strong>Check out my Portfolio</strong></a> ✨
 </p>
+
 
 
 
