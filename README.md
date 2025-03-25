@@ -11,21 +11,22 @@
 </p>
 
 <p align="center">
-✨ <a href="https://www.jessicaarroyolebron.com" target="_blank" style="text-decoration:none;"><strong>Check out my Portfolio</strong></a> ✨
+  <a href="https://www.jessicaarroyolebron.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/✨%20CHECK%20OUT%20MY%20PORTFOLIO%20✨-083B60?style=for-the-badge&labelColor=083B60" alt="Portfolio">
+  </a>
 </p>
-
-
 
 
 ---
 
-- 👩‍💻 Turning ideas into code, and code into solutions.
-- 🔧 I build web applications from front to back, ensuring seamless user experiences and efficient backends.
-- 🎨 With a background in graphic design, Figma is my playground, where I turn ideas into intuitive and visually stunning interfaces.
-- 🧠 Fascinated by the world of Artificial Intelligence, exploring how it can enhance web development.
-- 🌿 Passionate about growth. Always learning.
-- 🎬 Film enthusiast, 🌱 plant nurturer, and 💡 creative thinker.
-- 🚀 Fun fact: When I'm not coding, I'm brainstorming the next big idea!
+<p>👩‍💻 Turning ideas into code, and code into solutions.</p>
+<p>🔧 I build web applications from front to back, ensuring seamless user experiences and efficient backends.</p>
+<p>🎨 With a background in graphic design, Figma is my playground, where I turn ideas into intuitive and visually stunning interfaces.</p>
+<p>🧠 Fascinated by the world of Artificial Intelligence, exploring how it can enhance web development.</p>
+<p>🌿 Passionate about growth. Always learning.</p>
+<p>🎬 Film enthusiast, 🌱 plant nurturer, and 💡 creative thinker.</p>
+<p>🚀 Fun fact: When I'm not coding, I'm brainstorming the next big idea!</p>
+
 
 ---
 
